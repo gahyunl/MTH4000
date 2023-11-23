@@ -1,2 +1,2 @@
 # MTH4000
-qmul programming module
+Repository for MTH4000
